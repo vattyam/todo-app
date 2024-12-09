@@ -22,3 +22,7 @@ Make pizza
 clean the code
 my new todo
 new order
+hi
+hello
+hi
+do
