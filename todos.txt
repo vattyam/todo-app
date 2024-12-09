@@ -1,11 +1,9 @@
 add a new player
 dddd
-prepare
-a
+Good Ordera
 b
 c
-clean
-throw
+hithrow
 prepare
 throw
 prepare
@@ -19,10 +17,13 @@ add a new member
 Make soup.
 Make pizza
 
-clean the code
+clean the program
 my new todo
 new order
 hi
 hello
 hi
 do
+my newest todo is added
+my newest todo is added
+my new
